@@ -1,13 +1,11 @@
 <h2 align="center"> 🤓Olá! Seja bem vindo(a) ao meu perfil!🖖</br> </h2></br>
 
 
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mateus-alcantara-7280b525b/">
+<div align="center" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-alcantara-7280b525b/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo" />
   </a>
 </div>
-
-
 
 ###
 
