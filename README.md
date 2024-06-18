@@ -17,6 +17,7 @@
 <h2 align="center"> Tecnologias que estudo/utilizo </h2>
 
 ###
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -46,9 +47,8 @@
 
 ###
 
-## “O mistério gera curiosidade e a curiosidade é a base do desejo humano para compreender”. - Neil Armstrong
+<h2 align="center"> “O mistério gera curiosidade e a curiosidade é a base do desejo humano para compreender”. - Neil Armstrong </h2>
 
-- Life long learning
-- Curiosidade
-- Dedicação
-- Garra
+###
+
+
