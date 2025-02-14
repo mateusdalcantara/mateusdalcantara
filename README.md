@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
+<h2 align="center"> E muitas outras tecnologias. </h2>
+
 <br></br>
 
 ###
